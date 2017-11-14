@@ -2,9 +2,9 @@
 Spis ulubionych zasobów
 
 ## Matematyka
-https://www.youtube.com/channel/UCrkEr3B2BbJMk3tQ5nMNgxg
-https://www.matemaks.pl/
-http://byc-matematykiem.pl/
+- https://www.youtube.com/channel/UCrkEr3B2BbJMk3tQ5nMNgxg
+- https://www.matemaks.pl/
+- http://byc-matematykiem.pl/
 
 ## Statystyka
 https://www.statystyczny.pl/

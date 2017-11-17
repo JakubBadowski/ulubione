@@ -17,7 +17,7 @@ Spis ulubionych zasobów
 - https://www.youtube.com/watch?v=t0swpLaIFlI
 - https://www.youtube.com/watch?v=qoaaCboDWR8&list=PLl2G2wgLAhWA5pRMSfPd9ISEaqOGQoHtk
 
-### trygeonometria
+### Trygeonometria
 - https://www.youtube.com/playlist?list=PLl2G2wgLAhWDHclYmqLDBxZyuQNRtWQto
 
 
@@ -73,8 +73,17 @@ Spis ulubionych zasobów
 - http://www.wydawnictwopolitechniki.pl/Optymalizacja-Teoria-i-zadania;s,karta,id,727
 
 ## Elektronika
+
+### Podstawy
+- https://www.youtube.com/playlist?list=PL3YHjGDoidyITw8TkP_2PoYU3B1hqxFzw
+
+### Zakupy
 - https://botland.com.pl/moduly-radiowe/6639-modul-tunera-radiowego-stereo-fm-tea5767-i2c.html
 - https://kamami.pl/moduly-wifi/563151-modul-esp-wroom-32-z-rodziny-esp32-wi-fibluetooth-ble-adafruit-3320.html
+
+### Wybór multimetru
+- https://www.youtube.com/watch?v=3YdOdJMfkww
+
 
 ## Postacie
 - https://pl.wikipedia.org/wiki/Norbert_Wiener

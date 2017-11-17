@@ -8,6 +8,9 @@ Spis ulubionych zasobów
 - http://byc-matematykiem.pl/
 - https://www.youtube.com/channel/UCQYPNNQExri6AG5NmQjmvNg - KhanAcademyPolski
 
+### Narzędzia
+- https://www.wolframalpha.com/
+
 ### Pochodne
 - https://www.youtube.com/watch?v=pLacrOMMyts
 - https://www.youtube.com/watch?v=1YWcxGWI7A0

@@ -2,10 +2,23 @@
 Spis ulubionych zasobów
 
 ## Matematyka
+- http://www.kowalskimateusz.pl/
 - https://www.youtube.com/channel/UCrkEr3B2BbJMk3tQ5nMNgxg
 - https://www.matemaks.pl/
 - http://byc-matematykiem.pl/
 - https://www.youtube.com/channel/UCQYPNNQExri6AG5NmQjmvNg - KhanAcademyPolski
+
+### Pochodne
+- https://www.youtube.com/watch?v=pLacrOMMyts
+- https://www.youtube.com/watch?v=1YWcxGWI7A0
+- http://www.pochodna.pl/
+
+### Macierze
+- https://www.youtube.com/watch?v=t0swpLaIFlI
+- https://www.youtube.com/watch?v=qoaaCboDWR8&list=PLl2G2wgLAhWA5pRMSfPd9ISEaqOGQoHtk
+
+### trygeonometria
+- https://www.youtube.com/playlist?list=PLl2G2wgLAhWDHclYmqLDBxZyuQNRtWQto
 
 
 ## Statystyka
@@ -45,6 +58,9 @@ Spis ulubionych zasobów
 - https://sekurak.pl/shodan-czyli-google-dla-urzadzen-sieciowych/
 - https://sekurak.pl/jak-przejac-kamere-cctv/
 
+## Excel
+- https://www.youtube.com/watch?v=Am3vnoPljbE
+
 ## APIs
 - http://api.nbp.pl/
 - http://api.nbp.pl/api/exchangerates/rates/a/eur/last/200?format=json
@@ -53,6 +69,12 @@ Spis ulubionych zasobów
 
 ## Książki
 - https://bonito.pl/k-90636311-bron-matematycznej-zaglady
+- http://www.wydawnictwopolitechniki.pl/Metody-numeryczne;s,karta,id,1439
+- http://www.wydawnictwopolitechniki.pl/Optymalizacja-Teoria-i-zadania;s,karta,id,727
+
+## Elektronika
+- https://botland.com.pl/moduly-radiowe/6639-modul-tunera-radiowego-stereo-fm-tea5767-i2c.html
+- https://kamami.pl/moduly-wifi/563151-modul-esp-wroom-32-z-rodziny-esp32-wi-fibluetooth-ble-adafruit-3320.html
 
 ## Postacie
 - https://pl.wikipedia.org/wiki/Norbert_Wiener
